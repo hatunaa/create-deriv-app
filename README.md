@@ -5,6 +5,7 @@
 A CLI to bootstrap new Deriv packages and libraries, with feature selection and automatic setup for new repositories.
 
 ## Getting started
+tuandv test
 
 To get started, install the CLI using:
 
